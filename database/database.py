@@ -1,8 +1,8 @@
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
 
 
 
@@ -47,8 +47,8 @@ async def del_user(user_id: int):
 
 
 
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
