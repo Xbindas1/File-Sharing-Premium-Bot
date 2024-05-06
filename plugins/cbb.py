@@ -1,8 +1,8 @@
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
 
 
 
@@ -40,8 +40,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
 
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
