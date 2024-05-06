@@ -1,8 +1,8 @@
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
 
 
 
@@ -34,8 +34,8 @@ async def useless(_,message: Message):
 
 
 
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
