@@ -1,8 +1,8 @@
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
 
 
 
@@ -88,8 +88,8 @@ class Bot(Client):
 
 
 
-# Jishu Developer 
+# Xbindas
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Xbindas
+# Backup Channel @Xbindas
+# Developer @Xbindas_Owner
