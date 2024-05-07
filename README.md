@@ -117,8 +117,3 @@ stats - checking your bot uptime
 ### 💕 CONTACT DEVELOPER 💕
 - [Xbindas](https://t.me/Xbindas)
 - [Xbindas_Owner](https://t.me/Xbindas_Owner)
-
-### ☕ BUY ME A COFFEE ☕
-- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
-- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
-- [UPI](https://graph.org/file/b831109be4acff5c966d2.jpg)
